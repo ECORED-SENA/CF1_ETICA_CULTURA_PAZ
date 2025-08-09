@@ -334,8 +334,7 @@ export default {
         {
           nombre: 'Mónica Suárez Aya',
           cargo: 'Experta temática',
-          centro:
-            'Centro de Gestión Industrial. - Regional Distrito Capital',
+          centro: 'Centro de Gestión Industrial. - Regional Distrito Capital',
         },
         {
           nombre: 'Ana Catalina Córdoba',

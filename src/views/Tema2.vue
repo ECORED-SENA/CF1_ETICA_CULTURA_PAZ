@@ -69,7 +69,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/wowJ0kEwFn4?si=eSoekb_IntSfQhR9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       
     h5.bg-color-17.p-3 ¿Y usted es empático?
 
@@ -120,7 +120,7 @@
 
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/WN89tqR2o1k?si=b2uA-Bh8js_q1AAq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     separador
     
@@ -265,11 +265,11 @@
         p Es la que emplea la ira o los reproches, generando conflictos, lo cual impide encontrar soluciones a los problemas.
 
     p Sin embargo, el estilo de comunicación asertivo permite expresar y defender sus criterios y puntos de vista, se caracteriza por el equilibrio entre la elocuencia y el respeto, de ahí que se le haya adjudicado a este término el significado de “expresión de los derechos y sentimientos personales”.
-    p.mb-5 Lo invitamos a realizar el siguiente ejercicio. Visite el video que se encuentra en el material complementario: yo digo ahi que hablarlo, tu dices grrr! Mire el siguiente video e identifique en dónde está la comunicación agresiva, pasiva o asertiva.
+    p.mb-5 Lo invitamos a realizar el siguiente ejercicio. Visite el video que se encuentra en el material complementario: #[strong yo digo ahi que hablarlo, tu dices grrr!] Mire el siguiente video e identifique en dónde está la comunicación agresiva, pasiva o asertiva.
 
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    //- figure.mb-5
+    //-   .video
+    //-     iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     .bg-color-4.tarjeta.mb-5
       .px-4.px-md-5.py-4

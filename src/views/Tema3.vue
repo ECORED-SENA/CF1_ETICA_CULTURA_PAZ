@@ -73,11 +73,11 @@
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 3.2 Metas propuestas que estén en relación con principios y valores 
     
-    p.mb-5 Primero piense un poco sobre sus proyecciones, y para ello, lo invitamos a ver el video que se encuentra en el material complementario: <b>¿Te Atreves A Soñar? | Desafía tu Zona de Confort!</b>
+    p Primero piense un poco sobre sus proyecciones, y para ello, lo invitamos a ver el video que se encuentra en el material complementario: <b>¿Te Atreves A Soñar? | Desafía tu Zona de Confort!</b>
 
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    //- figure.mb-5
+    //-   .video
+    //-     iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
    
     p Ahora, un proyecto de vida es un elemento importante para darle un mayor sentido a la vida, además le permite tener claro los valores fundamentales que rigen su vida. Es una herramienta que permite estructurar su mente y su existencia para crear un esquema de lo que realmente quiere conseguir.
     p Algunas veces nos preguntamos ¿cómo me imagino dentro de algunos años?, ¿qué es lo que quiero alcanzar?, ¿qué es lo que me hace feliz?, ¿cómo lograr todo lo que me propongo?, estas preguntas nos permiten reflexionar hacia dónde nos dirigimos, de igual forma, nos aclara el camino sobre lo que queremos, dónde estamos y a dónde queremos llegar.
