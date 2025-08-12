@@ -126,28 +126,44 @@
     
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.2 Inteligencia emocional
-    
-    .row.mb-5
-      .col-lg-4.mb-3.mb-lg-0
-        figure
-          img(src="@/assets/curso/tema2/12.png", data-aos="zoom-in")
-      .col-lg-8
-        p(data-aos="fade-left") Tradicionalmente reconocemos la importancia del manejo de nuestras acciones, relacionando a quien maneja la lógica, un buen razonamiento lingüístico o lógico-matemático como una persona inteligente, capaz y en muchas ocasiones relacionada con el éxito. La inteligencia, ese instinto razonado que nos permite relacionar pensamientos, unos con otros, para obtener pensamientos nuevos nace y se hace, dependiendo de la herencia y del ambiente o contexto cultural; sin embargo, en los últimos años se ha empezado a considerar valioso el manejo de las emociones, considerándolo como otro tipo de inteligencia, la emocional, la cual enfatiza en la capacidad para manejarnos con nosotros mismos y con los demás.
 
-        .bg-color-18.mb-5.tarjeta
-          .p-4.p-md-5
-            .row.justify-content-center.align-items-center
-              .col-lg-4.mb-3.mb-lg-0
-                figure
-                  img(src="@/assets/curso/tema2/13.svg", data-aos="zoom-in")
-              .col-lg-7
-                p(data-aos="fade-left").mb-4 Para ampliar la información, lo invitamos a escuchar el siguiente pódcast.
+
+
+    .bg-color-1.mb-5(data-aos="fade-up")
+      .row.justify-content-center.align-items-center
+        .col-lg-auto
+          figure
+            img(src='@/assets/curso/tema2/47.png', alt='')
+        .col-lg
+          .p-4
+            p.mb-0(data-aos="fade-up") Tradicionalmente reconocemos la importancia del manejo de nuestras acciones, relacionando a quien maneja la lógica, un buen razonamiento lingüístico o lógico-matemático como una persona inteligente, capaz y en muchas ocasiones relacionada con el éxito. La inteligencia, ese instinto razonado que nos permite relacionar pensamientos, unos con otros, para obtener pensamientos nuevos nace y se hace, dependiendo de la herencia y del ambiente o contexto cultural; sin embargo, en los últimos años se ha empezado a considerar valioso el manejo de las emociones, considerándolo como otro tipo de inteligencia, la emocional, la cual enfatiza en la capacidad para manejarnos con nosotros mismos y con los demás.
+
+
+    figure.mb-5
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/gXOVF4x8hqw?si=Y_Ew3xrPanVqlDrS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    
+    //- .row.mb-5
+    //-   .col-lg-4.mb-3.mb-lg-0
+    //-     figure
+    //-       img(src="@/assets/curso/tema2/12.png", data-aos="zoom-in")
+    //-   .col-lg-8
+    //-     p(data-aos="fade-left") Tradicionalmente reconocemos la importancia del manejo de nuestras acciones, relacionando a quien maneja la lógica, un buen razonamiento lingüístico o lógico-matemático como una persona inteligente, capaz y en muchas ocasiones relacionada con el éxito. La inteligencia, ese instinto razonado que nos permite relacionar pensamientos, unos con otros, para obtener pensamientos nuevos nace y se hace, dependiendo de la herencia y del ambiente o contexto cultural; sin embargo, en los últimos años se ha empezado a considerar valioso el manejo de las emociones, considerándolo como otro tipo de inteligencia, la emocional, la cual enfatiza en la capacidad para manejarnos con nosotros mismos y con los demás.
+
+    //-     .bg-color-18.mb-5.tarjeta
+    //-       .p-4.p-md-5
+    //-         .row.justify-content-center.align-items-center
+    //-           .col-lg-4.mb-3.mb-lg-0
+    //-             figure
+    //-               img(src="@/assets/curso/tema2/13.svg", data-aos="zoom-in")
+    //-           .col-lg-7
+    //-             p(data-aos="fade-left").mb-4 Para ampliar la información, lo invitamos a escuchar el siguiente pódcast.
         
-                TarjetaAudio.color-secundario.bg-color-white.mb-3(
-                  texto="Inteligencia emocional"
-                  tiempo
-                  :audio="require('../assets/curso/podcast/podcast1.mp3')"
-                )
+    //-             TarjetaAudio.color-secundario.bg-color-white.mb-3(
+    //-               texto="Inteligencia emocional"
+    //-               tiempo
+    //-               :audio="require('../assets/curso/podcast/podcast1.mp3')"
+    //-             )
     
     h5.bg-color-19.p-3 Hábitos emocionales
 
