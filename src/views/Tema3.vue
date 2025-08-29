@@ -24,14 +24,14 @@
               .col-lg-auto.mb-3.mb-lg-0
                 img(src="@/assets/curso/tema3/1.svg", style="max-width: 209px").mx-auto
               .col-lg
-                p.mb-0 El autoconocimiento como herramienta para gestionar las metas propias e institucionales está ligado al sentido de vida que cada persona determina. Corresponde al propósito que cada ser humano encuentra o define para su vida, es completamente armonizable a la vocación, al carisma del quehacer o la disciplina que cada persona desempeña. Entender, establecer, determinar, definir su propio propósito de vida potencializa la posibilidad de reconocerse en tanto a sus propósitos, metas o sueños, y potencializa las probabilidades de reconocer bajo los mismos criterios a los demás.
+                p.mb-0 El autoconocimiento como herramienta para gestionar las metas propias e institucionales está ligado al sentido de vida que cada persona determina. Corresponde al propósito que cada ser humano encuentra o define para su vida, es completamente armonizable con la vocación, al carisma del quehacer o la disciplina que cada persona desempeña. Entender, establecer, determinar, definir su propio propósito de vida potencializa la posibilidad de reconocerse en tanto a sus propósitos, metas o sueños, y potencializa las probabilidades de reconocer bajo los mismos criterios a los demás.
     
     .row.mb-5
       .col-lg-4.order-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema3/2.png", data-aos="zoom-in")
       .col-lg-8.order-lg-1(data-aos="fade-left")
-        p Cuando el sentido de vida se encuentra alineado directamente con el papel o labor desempeñada a diario existe mayor posibilidad de establecer metas comunes y cumplirlas, trabajar por el bien propio y común, generando impactos positivos, con mayor recordación y ofreciendo una respuesta comprometida con la vida misma. En este sentido, las orientaciones de vida hacia el respeto y dignidad humana deben ser pilares fundamentales en el proyecto de superación propio o personal, profesional y familiar.
+        p Cuando el sentido de vida se encuentra alineado directamente con el papel o labor desempeñada a diario, existe mayor posibilidad de establecer metas comunes y cumplirlas, trabajar por el bien propio y común, generando impactos positivos, con mayor recordación y ofreciendo una respuesta comprometida con la vida misma. En este sentido, las orientaciones de vida hacia el respeto y la dignidad humana deben ser pilares fundamentales en el proyecto de superación propio o personal, profesional y familiar.
         p El planteamiento personal puede encontrar su fundamento en la necesidad que tiene cada persona de encontrar un sentido a su propia existencia. No es la vida la que nos entrega ese significado, sino que precisamente cada persona tiene el enorme desafío de encontrarlo frente a su propia existencia.
 
     
@@ -79,8 +79,8 @@
     //-   .video
     //-     iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
    
-    p Ahora, un proyecto de vida es un elemento importante para darle un mayor sentido a la vida, además le permite tener claro los valores fundamentales que rigen su vida. Es una herramienta que permite estructurar su mente y su existencia para crear un esquema de lo que realmente quiere conseguir.
-    p Algunas veces nos preguntamos ¿cómo me imagino dentro de algunos años?, ¿qué es lo que quiero alcanzar?, ¿qué es lo que me hace feliz?, ¿cómo lograr todo lo que me propongo?, estas preguntas nos permiten reflexionar hacia dónde nos dirigimos, de igual forma, nos aclara el camino sobre lo que queremos, dónde estamos y a dónde queremos llegar.
+    p Ahora, un proyecto de vida es un elemento importante para darle un mayor sentido a la vida, además le permite tener claros los valores fundamentales que rigen su vida. Es una herramienta que permite estructurar su mente y su existencia para crear un esquema de lo que realmente quiere conseguir.
+    p Algunas veces nos preguntamos: ¿cómo me imagino dentro de algunos años?, ¿qué es lo que quiero alcanzar?, ¿qué es lo que me hace feliz?, ¿cómo lograr todo lo que me propongo?, estas preguntas nos permiten reflexionar hacia dónde nos dirigimos, de igual forma, nos aclaran el camino sobre lo que queremos, dónde estamos y a dónde queremos llegar.
     p.mb-5 Para elaborar el proyecto de vida tomaremos algunas orientaciones de la Programación Neurolingüística (PNL), que plantean hacer uso del modelo de niveles neurológicos propuesto por Robert Dilts (s.f.), el cual señala que toda experiencia humana puede analizarse a partir de seis niveles neurológicos:
 
     .row.justify-content-center.mb-5
@@ -89,13 +89,13 @@
           h5 Figura 1
           span Niveles neurológicos 
         figure
-          img(src="@/assets/curso/tema3/8.svg", data-aos="zoom-in")
+          img(src="@/assets/curso/tema3/8.svg", data-aos="zoom-in", alt="Pirámide de los niveles neurológicos del aprendizaje y el cambio, según el modelo de Robert Dilts. La figura muestra seis niveles jerárquicos de abajo hacia arriba: entorno (rojo), acciones (naranja), capacidades (azul), creencias y valores (verde), identidad (celeste) y espiritualidad (dorado). A la izquierda se señalan tres procesos asociados: remediativo en los niveles inferiores, generativo en los intermedios y evolutivo en el superior.")
     
     p Cada uno de estos niveles plantea preguntas que nos permiten reflexionar sobre los aspectos que hacen parte de su vida personal (interior), involucrando los cuatro primeros niveles y los aspectos que están relacionados con el exterior, es decir, los últimos dos.
     p.mb-5 Reflexione sobre cada una de las siguientes preguntas, esto le permitirá planear su proyecto de vida:
 
     .row
-      .col-lg-4.mb-3.mb-lg-0
+      .col-lg-4.mb-3.mb-lg-0.d-none.d-lg-block
         figure
           img(src="@/assets/curso/tema3/9.png", data-aos="zoom-in")
       .col-lg-8
@@ -198,7 +198,7 @@
           h5 Figura 2
           span Pregunta 
         figure
-          img(src="@/assets/curso/tema3/10.svg", data-aos="zoom-in")
+          img(src="@/assets/curso/tema3/10.svg", data-aos="zoom-in", alt="Diagrama circular con fondo blanco y siete círculos de colores alrededor de uno central celeste.El círculo central contiene la pregunta: ¿cuál es mi compromiso en los diferentes entornos con los que me relaciono” Alrededor del círculo central se encuentran los siguientes entornos: vecindario, amigos, cultural, virtual, colegio (educativa), laboral y familia.")
         
 </template>
 

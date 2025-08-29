@@ -55,7 +55,7 @@
             .bloque-texto-f__avatar__img
               img(src='@/assets/curso/tema1/3.png', alt='Texto que describa la imagen')
     
-    p.mb-5 En general se puede rescatar que la dignidad humana hace parte inherente del ser humano, desde sus diferentes posturas se coincide en afirmar que el ser humano es digno por el hecho de ser persona.
+    p.mb-5 En general, se puede rescatar que la dignidad humana hace parte inherente del ser humano, desde sus diferentes posturas se coincide en afirmar que el ser humano es digno por el hecho de ser persona.
 
     .bg-color-3.mb-5(data-aos="fade-up")
       .row.justify-content-center.align-items-center
@@ -64,14 +64,14 @@
             img(src='@/assets/curso/tema1/4.png', alt='')
         .col-lg
           .p-4
-            p(data-aos="fade-up") Tanto la “dignidad humana” como los “derechos humanos” encierran conceptos de universalidad, es decir que son valores idénticos comunes a toda la familia humana y que los Estados deben reconocer y garantizar. Por esta razón, el artículo 1° de la Declaración Universal de Derechos Humanos dice: 
+            p(data-aos="fade-up") Tanto la “dignidad humana” como los “derechos humanos” encierran conceptos de universalidad, es decir, que son valores idénticos comunes a toda la familia humana y que los Estados deben reconocer y garantizar. Por esta razón, el artículo 1° de la Declaración Universal de Derechos Humanos dice: 
             .bloque-texto-b.p-4
               .bloque-texto-b__texto
                 i.fas.fa-quote-left
                 h4.mb-0 “Todos los seres humanos nacen libres e iguales en dignidad y derechos y dotados como están de razón y conciencia, deben comportarse fraternalmente los unos con los otros”.
                 i.fas.fa-quote-right
     
-    p El reconocimiento de la dignidad humana se encuentra transversalmente en todo el sistema internacional de los derechos humanos y en el derecho humanitario. Por consiguiente, la dignidad humana se ha desarrollado como un valor central no sólo en el derecho internacional de los derechos humanos sino también en el constitucionalismo moderno.
+    p El reconocimiento de la dignidad humana se encuentra transversalmente en todo el sistema internacional de los derechos humanos y en el derecho humanitario. Por consiguiente, la dignidad humana se ha desarrollado como un valor central no solo en el derecho internacional de los derechos humanos sino, también en el constitucionalismo moderno.
 
     separador
     
@@ -85,7 +85,7 @@
         LineaTiempoE.color-acento-contenido
           .row(titulo="1864").align-items-center
             .col-lg-9.mb-4.mb-lg-0.order-2
-              p Se inicia una serie de discusiones y movimientos en pro de mejorar las condiciones sociales de las personas que se encuentran en medio de un conflicto armado, lo cual llevó a establecer hacia 1864 el Derecho Internacional Humanitario (DIH) y el Derecho Internacional de los Derechos Humanos, que son dos normativas diferentes, pero complementarios. Ambos se ocupan de la protección de la vida, la salud y la dignidad de las personas, sin embargo, el Derecho Internacional Humanitario es aplicado en situaciones de conflicto armado, y el Derecho Internacional de los Derechos Humanos está vigente en todo momento, tanto en tiempo de paz como de guerra.
+              p Se inicia una serie de discusiones y movimientos en pro de mejorar las condiciones sociales de las personas que se encuentran en medio de un conflicto armado, lo cual llevó a establecer hacia 1864 el Derecho Internacional Humanitario (DIH) y el Derecho Internacional de los Derechos Humanos, que son dos normativas diferentes, pero complementarias. Ambos se ocupan de la protección de la vida, la salud y la dignidad de las personas, sin embargo, el Derecho Internacional Humanitario es aplicado en situaciones de conflicto armado, y el Derecho Internacional de los Derechos Humanos está vigente en todo momento, tanto en tiempo de paz como de guerra.
             .col-lg-3.order-1.mb-3.mb-lg-0
               figure(data-aos="fade-up")
                 img(src='@/assets/curso/tema1/5.png', alt='Texto que describa la imagen')
@@ -97,7 +97,7 @@
                 img(src='@/assets/curso/tema1/6.png', alt='Texto que describa la imagen')
           .row(titulo="1949 y 1977").align-items-center
             .col-lg-9.mb-4.mb-lg-0.order-2
-              p Con el fin de garantizar los derechos de las personas civiles, los prisioneros, enfermos y heridos en momentos de guerra, se realiza una serie de modificaciones que incluyen mejoras a las normas establecidas, con cuatros tratados de Ginebra en 1949 y un Protocolo adicional de 1977, consolidando la normativa básica de la dignidad humana en estamentos jurídicos.
+              p Con el fin de garantizar los derechos de las personas civiles, los prisioneros, enfermos y heridos en momentos de guerra, se realiza una serie de modificaciones que incluyen mejoras a las normas establecidas, con cuatro tratados de Ginebra en 1949 y un Protocolo adicional de 1977, consolidando la normativa básica de la dignidad humana en estamentos jurídicos.
             .col-lg-3.order-1.mb-3.mb-lg-0
               figure(data-aos="fade-up")
                 img(src='@/assets/curso/tema1/7.png', alt='Texto que describa la imagen')

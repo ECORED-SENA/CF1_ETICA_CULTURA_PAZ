@@ -348,14 +348,14 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Geraldine Viviana Fernandez Jaramillo',
+          nombre: 'Geraldine Viviana Fernández Jaramillo',
           cargo: 'Diseñadora de contenidos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Leyson Fabian Castaño Pérez',
-          cargo: 'Desarrollador fullstack',
+          nombre: 'Leyson Fabián Castaño Pérez',
+          cargo: 'Desarrollador <em>fullstack</em>',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },

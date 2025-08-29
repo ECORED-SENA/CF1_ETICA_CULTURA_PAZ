@@ -7,7 +7,7 @@
         span 2
       h1 Habilidades para la vida y la convivencia
 
-    p.mb-5 En 1993 la División de Salud Mental de la Organización Mundial de la Salud (OMS) lanzó formalmente la Iniciativa Internacional para la Educación en las Escuelas de Habilidades para la Vida, con el propósito de difundir la enseñanza de un grupo genérico de destrezas psicosociales, consideradas importantes en la promoción de la competencia psicosocial, y a las que llamó “habilidades para la vida”. (P5) Las diez habilidades que propuso fueron: toma de decisiones, solución de problemas, pensamiento creativo, pensamiento crítico, comunicación efectiva, relaciones interpersonales, autoconocimiento, empatía, manejo de emociones y manejo del estrés.
+    p.mb-5 En 1993, la División de Salud Mental de la Organización Mundial de la Salud (OMS) lanzó formalmente la Iniciativa Internacional para la Educación en las Escuelas de Habilidades para la Vida, con el propósito de difundir la enseñanza de un grupo genérico de destrezas psicosociales, consideradas importantes en la promoción de la competencia psicosocial, y a las que llamó “habilidades para la vida”. (P5) Las diez habilidades que propuso fueron: toma de decisiones, solución de problemas, pensamiento creativo, pensamiento crítico, comunicación efectiva, relaciones interpersonales, autoconocimiento, empatía, manejo de emociones y manejo del estrés.
 
     .bg-color-15.mb-5(data-aos="fade-up")
       .row.justify-content-center.align-items-center
@@ -65,7 +65,7 @@
         p(data-aos="fade-left") A continuación, presentamos un acercamiento para entender la empatía y las posibilidades de aplicarla.
         p Goleman (1995) considera la empatía como una habilidad social, desarrollada como la capacidad de reconocer sentimientos, necesidades, realidades e intereses de los demás.
 
-    p.mb-5 Para conocer más sobre lo que Daniel Goleman nos dice en su libro, lo invitamos a ver el video <b>Inteligencia Emocional según Daniel Goleman | Resumen Animado Completo del libro</b>, el cual se encuentra en el material complementario.
+    p.mb-5 Para conocer más sobre lo que Daniel Goleman nos dice en su libro, lo invitamos a ver el video <b>Inteligencia emocional según Daniel Goleman | Resumen animado completo del libro</b>, el cual se encuentra en el material complementario.
 
     figure.mb-5
       .video
@@ -73,43 +73,43 @@
       
     h5.bg-color-17.p-3 ¿Y usted es empático?
 
-    p La empatía más que una palabra de moda es una necesidad de comprender la realidad del otro. Es cuestión de observación, práctica e interés, más que una recomendación.
-    p.mb-5 ¿Cuánta empatía siente en cada situación? Reflexione en las diferentes situaciones con quién siente empatía y con quién no.
+    p La empatía, más que una palabra de moda, es una necesidad de comprender la realidad del otro. Es cuestión de observación, práctica e interés, más que una recomendación.
+    p.mb-5 ¿Cuánta empatía siente en cada situación? Reflexione sobre las diferentes situaciones, con quién siente empatía y con quién no.
 
     .row.justify-content-center.align-items-stretch.mb-3
-      .col-lg-3.mb-4(data-aos="zoom-in-up")
+      .col-lg-3.col-6.mb-4(data-aos="zoom-in-up")
         .custom-image-card-2.h-100
           img.custom-image-card__image(src="@/assets/curso/tema2/5.png" alt="")
           .custom-image-card__text.p-4
             p.mb-.text-center Mujer cansada por los tacones.
-      .col-lg-3.mb-4(data-aos="zoom-in-down")
+      .col-lg-3.col-6.mb-4(data-aos="zoom-in-down")
         .custom-image-card-2.h-100
           img.custom-image-card__image(src="@/assets/curso/tema2/6.png" alt="")
           .custom-image-card__text.p-4
             p.mb-0.text-center Mujer maltratada.
-      .col-lg-3.mb-4(data-aos="zoom-in-down")
+      .col-lg-3.col-6.mb-4(data-aos="zoom-in-down")
         .custom-image-card-2.h-100
           img.custom-image-card__image(src="@/assets/curso/tema2/7.png" alt="")
           .custom-image-card__text.p-4
             p.mb-0.text-center Maltrato animal.
-      .col-lg-3.mb-4(data-aos="zoom-in-down")
+      .col-lg-3.col-6.mb-4(data-aos="zoom-in-down")
         .custom-image-card-2.h-100
           img.custom-image-card__image(src="@/assets/curso/tema2/8.png" alt="")
           .custom-image-card__text.p-4
             p.mb-0.text-center Falta de hogar.
     
     .row.justify-content-center.align-items-stretch.mb-5
-      .col-lg-3.mb-4(data-aos="zoom-in-up")
+      .col-lg-3.col-6.mb-4(data-aos="zoom-in-up")
         .custom-image-card-2.h-100
           img.custom-image-card__image(src="@/assets/curso/tema2/9.png" alt="")
           .custom-image-card__text.p-4
             p.mb-.text-center Falta de garantías sociales.
-      .col-lg-3.mb-4(data-aos="zoom-in-down")
+      .col-lg-3.col-6.mb-4(data-aos="zoom-in-down")
         .custom-image-card-2.h-100
           img.custom-image-card__image(src="@/assets/curso/tema2/10.png" alt="")
           .custom-image-card__text.p-4
             p.mb-0.text-center Persona llorando en la calle.
-      .col-lg-3.mb-4(data-aos="zoom-in-down")
+      .col-lg-3.col-6.mb-4(data-aos="zoom-in-down")
         .custom-image-card-2.h-100
           img.custom-image-card__image(src="@/assets/curso/tema2/11.png" alt="")
           .custom-image-card__text.p-4
@@ -167,7 +167,7 @@
     
     h5.bg-color-19.p-3 Hábitos emocionales
 
-    p.mb-5 Ya reconociendo la amplia capacidad de aprendizaje que tenemos las personas se destaca una capacidad particular de la inteligencia, la cual se debe desarrollar como seres sociales que somos y que realmente ayuda mucho en el proceso de adaptación al entorno. Recomendamos los siguientes consejos para aumentar su inteligencia emocional y convertirlos en un hábito:
+    p.mb-5 Ya reconociendo la amplia capacidad de aprendizaje que tenemos las personas, se destaca una capacidad particular de la inteligencia, la cual se debe desarrollar como seres sociales que somos y que realmente ayuda mucho en el proceso de adaptación al entorno. Recomendamos los siguientes consejos para aumentar su inteligencia emocional y convertirlos en un hábito:
     
     .bg-full-width.bg-fondo-slider.mb-5
       .p-4.p-md-5
@@ -238,7 +238,7 @@
                 img(src="@/assets/curso/tema2/22.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Toma descansos mentales
-              p Por lo menos cada hora mueve tu cuerpo para refrescar tu cerebro. Pasea por la calle o has estiramientos en tu escritorio.
+              p Por lo menos, cada hora mueve tu cuerpo para refrescar tu cerebro. Pasea por la calle o haz estiramientos en tu escritorio.
     
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
@@ -281,7 +281,7 @@
         p Es la que emplea la ira o los reproches, generando conflictos, lo cual impide encontrar soluciones a los problemas.
 
     p Sin embargo, el estilo de comunicación asertivo permite expresar y defender sus criterios y puntos de vista, se caracteriza por el equilibrio entre la elocuencia y el respeto, de ahí que se le haya adjudicado a este término el significado de “expresión de los derechos y sentimientos personales”.
-    p.mb-5 Lo invitamos a realizar el siguiente ejercicio. Visite el video que se encuentra en el material complementario: #[strong yo digo ahi que hablarlo, tu dices grrr!] Mire el siguiente video e identifique en dónde está la comunicación agresiva, pasiva o asertiva.
+    p.mb-5 Lo invitamos a realizar el siguiente ejercicio. Visite el video que se encuentra en el material complementario: #[strong yo digo hay que hablarlo, tu dices grrr!] Mire el siguiente video e identifique en dónde está la comunicación agresiva, pasiva o asertiva.
 
     //- figure.mb-5
     //-   .video
@@ -293,7 +293,7 @@
           .col-lg-auto.mb-3.mb-lg-0
             img(src="@/assets/curso/tema2/26.svg", style="max-width: 90px").mx-auto
           .col-lg
-            p.mb-0 Es importante tener en cuenta que dependiendo de la situación se utiliza uno o varios estilos de comunicación, por ello reconozca la posibilidad de encontrar un punto intermedio en el que cuando envíe un mensaje sea claro, conciso y no perjudique a la otra persona.
+            p.mb-0 Es importante tener en cuenta que, dependiendo de la situación, se utiliza uno o varios estilos de comunicación; por ello, reconozca la posibilidad de encontrar un punto intermedio en el que, cuando envíe un mensaje, sea claro, conciso y no perjudique a la otra persona.
     
     p.mb-5 La comunicación asertiva cumple además con ciertos requisitos emotivos, psicológicos y pragmáticos que la caracterizan, como lo son:
 
@@ -314,7 +314,7 @@
           .col-lg-5.mb-3.mb-lg-0
             img(src="@/assets/curso/tema2/27.png").mx-auto
           .col-lg-7
-            p Es importante que elija el lugar para tener una conversación importante. Las personas suelen mostrarse más dispuestas en un lugar apacible, tranquilo y seguro, que en otro ruidoso y donde se les presente distracciones.
+            p Es importante que elija el lugar para tener una conversación importante. Las personas suelen mostrarse más dispuestas en un lugar apacible, tranquilo y seguro, que en otro ruidoso y donde se les presenten distracciones.
       .tarjeta.color-acento-botones--borde.p-4(titulo="Tono de la voz")
         h4 Tono de la voz
         .row.align-items-center
@@ -363,7 +363,7 @@
                 h4.text-center.mb-4 Haga una petición activa y concreta
                 p.text-center Este último paso se relaciona con el anterior, primero identifique qué lograría satisfacer su necesidad y luego comunique de manera clara qué es lo que quiere de los demás.
 
-          .col-lg-3.order-1.mb-3.mb-lg-0
+          .col-lg-3.order-1.mb-3.mb-lg-0.d-none.d-lg-block
             figure
               img(src='@/assets/curso/tema2/32.png', alt='')
     
@@ -380,7 +380,7 @@
           p(numero="2" titulo="Mejora la autoestima") Permite recuperar el control de las situaciones, al defender nuestras opiniones y expresar nuestras emociones.
           p(numero="3" titulo="Mejora la comunicación con los demás") La asertividad se basa en una comunicación eficiente, evitando generar conflictos.
           p(numero="4" titulo="Contribuye a gestionar las emociones") Expresar y atender nuestras emociones nos permite comunicarnos mejor y fortalecer las relaciones interpersonales.quam cursus in. Donec feugiat volutpat metus at pulvinar.
-          p(numero="5" titulo="Resolver conflictos") La asertividad permite resolver conflictos de manera eficiente, evitando que los problemas se incrementen. Esto se debe porque expresamos nuestras necesidades.
+          p(numero="5" titulo="Resolver conflictos") La asertividad permite resolver conflictos de manera eficiente, evitando que los problemas se incrementen. Esto se debe a que expresamos nuestras necesidades.
 
     separador
     
@@ -400,7 +400,7 @@
         p.mb-0 Conozcamos las técnicas o métodos para la resolución de conflictos:
 
     .row
-      .col-lg-3.mb-3.mb-lg-0
+      .col-lg-3.mb-3.mb-lg-0.d-none.d-lg-block
         figure
           img(src="@/assets/curso/tema2/38.png", data-aos="zoom-in")
       .col-lg-9
@@ -461,6 +461,14 @@
 
     p Si desea profundizar en cada estrategia, revise con mayor detalle el siguiente manual de resolución de conflictos.
 
+    .row
+      .col-lg-4
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_1_Manual_Solucion_de_conflictos.pdf')" target="_blank")
+          .anexo__icono
+            img(src="@/assets/template/icono-pdf.svg")
+          .anexo__texto
+            p Anexo. Solución de conflictos
+
     separador
     
     #t_2_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -472,8 +480,8 @@
           .col-lg-auto.order-2
             img(src="@/assets/curso/tema2/38.svg", style="max-width: 330px", data-aos="zoom-in").mx-auto
           .col-lg.order-1.mb-3.mb-lg-0
-            p Crecer como persona es un proceso que está relacionado con el autoconocimiento, con la capacidad de conocerse y valorarse a sí mismo, tomar conciencia de las motivaciones, necesidades, valores, pensamientos y emociones que definen la identidad propia, y sus efectos en el comportamiento de los demás y el entorno, de igual forma, tomar conciencia sobre las causas, desventajas y posibles estrategias para superar comportamientos no deseados.
-            p.mb-0 Cuando se llega a este punto es necesario hacer algunos cambios y reconectarse de nuevo con nuestra propia identidad, esta transformación comienza con nosotros mismos, esto requiere hacer una autorreflexión, ser conscientes de nuestras capacidades, y comprender que exige compromiso, tiempo, energía y estrategias claras y realistas.
+            p Crecer como persona es un proceso que está relacionado con el autoconocimiento, con la capacidad de conocerse y valorarse a sí mismo, tomar conciencia de las motivaciones, necesidades, valores, pensamientos y emociones que definen la identidad propia, y sus efectos en el comportamiento de los demás y el entorno; de igual forma, tomar conciencia sobre las causas, desventajas y posibles estrategias para superar comportamientos no deseados.
+            p.mb-0 Cuando se llega a este punto, es necesario hacer algunos cambios y reconectarse de nuevo con nuestra propia identidad, esta transformación comienza con nosotros mismos, esto requiere hacer una autorreflexión, ser conscientes de nuestras capacidades, y comprender que exige compromiso, tiempo, energía y estrategias claras y realistas.
 
     .row.justify-content-center.mb-5
       .col-xl-8
@@ -518,7 +526,7 @@
                 span 9
               | ¿Hay algo que le gustaría hacer y que nunca se ha decidido a hacer? ¿Qué se lo impide?
 
-        p Si las respuestas a estas preguntas generan incomodidad y/o no le gustan, piense cómo puede cambiarlo, teniendo en cuenta:
+        p Si las respuestas a estas preguntas generan incomodidad y/o no le gustan, piense cómo puede cambiarlas, teniendo en cuenta:
     
     .row.justify-content-center.mb-5
       .col-lg-4.col-xl-3.mb-3.mb-lg-0
@@ -539,7 +547,7 @@
           .col-lg
             p.mb-0 El camino hacia el bienestar y el crecimiento personal hace referencia a una serie de actividades que se construyen a lo largo de la vida y que pueden modificarse en cualquier momento, esto nos invita a empoderarnos frente a la vida, siguiendo nuestros propios sueños.
 
-    p.mb-5 Pero ¿qué podemos hacer para transformar nuestra vida?, ¿qué acciones podemos llevar a cabo para posibilitar un cambio hacia el bienestar y la autosatisfacción? Veamos algunas claves que podemos tener en cuenta:
+    p.mb-5 Pero, ¿qué podemos hacer para transformar nuestra vida?, ¿qué acciones podemos llevar a cabo para posibilitar un cambio hacia el bienestar y la autosatisfacción? Veamos algunas claves que podemos tener en cuenta:
 
     .bg-full-width.bg-fondo-slider.mb-5
       .p-4.p-md-5
@@ -580,7 +588,7 @@
                 img(src="@/assets/curso/tema2/45.svg")
             .col-lg-8.order-1.mb-3.mb-lg-0
               h5 Responsabilícese y abandone el victimismo
-              p Este aspecto nos habla de hacernos cargo de nuestros propios problemas, viene asociada a otras habilidades que lo llevan a asumir la transformación de su propia vida.
+              p Este aspecto nos habla de hacernos cargo de nuestros propios problemas, viene asociado a otras habilidades que lo llevan a asumir la transformación de su propia vida.
     
           .row.align-items-center.p-4.p-md-5
             .col-lg-3.order-2
