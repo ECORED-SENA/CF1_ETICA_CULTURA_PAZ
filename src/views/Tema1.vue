@@ -7,7 +7,7 @@
         span 1
       h1 Dignidad como fundamento de la cultura humana
 
-    p La convivencia como sociedad ha dispuesto un orden y normas que permitan una sana convivencia mundial.
+    p.mb-0 La convivencia como sociedad ha dispuesto un orden y normas que permitan una sana convivencia mundial.
 
     separador
     
@@ -71,7 +71,7 @@
                 h4.mb-0 “Todos los seres humanos nacen libres e iguales en dignidad y derechos y dotados como están de razón y conciencia, deben comportarse fraternalmente los unos con los otros”.
                 i.fas.fa-quote-right
     
-    p El reconocimiento de la dignidad humana se encuentra transversalmente en todo el sistema internacional de los derechos humanos y en el derecho humanitario. Por consiguiente, la dignidad humana se ha desarrollado como un valor central no solo en el derecho internacional de los derechos humanos sino, también en el constitucionalismo moderno.
+    p.mb-0 El reconocimiento de la dignidad humana se encuentra transversalmente en todo el sistema internacional de los derechos humanos y en el derecho humanitario. Por consiguiente, la dignidad humana se ha desarrollado como un valor central no solo en el derecho internacional de los derechos humanos sino, también en el constitucionalismo moderno.
 
     separador
     
@@ -110,7 +110,7 @@
           .col-lg
             p.mb-0 Es así como el concepto de Derechos Humanos se puede relacionar con la afirmación de la dignidad de la persona frente al Estado, pues, al reconocer a la persona como ser humano, sólo por el hecho de serlo, implica que se le reconozca como portadora de estos derechos.
     
-    p Como vemos a través del tiempo, las normas establecidas mundialmente para garantizar el respeto a la vida del ser humano, coinciden en trasladar a todas las constituciones democráticas de cada país, la noción de dignidad humana como base esencial para el respeto de los derechos humanos, resaltando que los derechos no se otorgan desde el poder estatal, sino que cada Estado debe garantizar su pleno ejercicio.
+    p.mb-0 Como vemos a través del tiempo, las normas establecidas mundialmente para garantizar el respeto a la vida del ser humano, coinciden en trasladar a todas las constituciones democráticas de cada país, la noción de dignidad humana como base esencial para el respeto de los derechos humanos, resaltando que los derechos no se otorgan desde el poder estatal, sino que cada Estado debe garantizar su pleno ejercicio.
 
     separador
     
@@ -156,9 +156,6 @@
 
     .row.mb-5.justify-content-center
       .col-md-6.col-lg-4.mb-4.mb-lg-0(data-aos="zoom-in-down")
-        //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
-        //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-        //- estas clases tambien tienen un modificador --borde
         .tarjeta.bg-color-5.h-100.p-4
           .row.justify-content-center.mb-3
             .col-4
@@ -169,9 +166,6 @@
             h2 (i)
             p La dignidad humana entendida como autonomía o como posibilidad de diseñar un plan vital y de determinarse según sus características (vivir como quiera). 
       .col-md-6.col-lg-4.mb-4.mb-lg-0(data-aos="zoom-in-up")
-        //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
-        //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-        //- estas clases tambien tienen un modificador --borde
         .tarjeta.bg-color-5.h-100.p-4
           .row.justify-content-center.mb-3
             .col-4
@@ -183,9 +177,6 @@
             p La dignidad humana entendida como ciertas condiciones materiales concretas de existencia (vivir bien). 
  
       .col-md-6.col-lg-4.mb-4.mb-lg-0(data-aos="zoom-in-down")
-        //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
-        //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-        //- estas clases tambien tienen un modificador --borde
         .tarjeta.bg-color-5.h-100.p-4
           .row.justify-content-center.mb-3
             .col-4
@@ -198,11 +189,8 @@
     
     p.mb-5 Por otro lado, al tener como punto de vista la funcionalidad, del enunciado normativo “dignidad humana”, la Sala ha identificado tres lineamientos: 
 
-    .row.mb-5.justify-content-center
+    .row.justify-content-center
       .col-md-6.col-lg-4.mb-4.mb-lg-0(data-aos="zoom-in-up")
-        //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
-        //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-        //- estas clases tambien tienen un modificador --borde
         .tarjeta.bg-color-6.h-100.p-4
           .row.justify-content-center.mb-3
             .col-4
@@ -213,9 +201,6 @@
             h2 (i)
             p La dignidad humana entendida como principio fundante del ordenamiento jurídico y por tanto del Estado, y en este sentido la dignidad como valor. 
       .col-md-6.col-lg-4.mb-4.mb-lg-0(data-aos="zoom-in-down")
-        //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
-        //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-        //- estas clases tambien tienen un modificador --borde
         .tarjeta.bg-color-6.h-100.p-4
           .row.justify-content-center.mb-3
             .col-4
@@ -227,9 +212,6 @@
             p La dignidad humana entendida como principio constitucional. 
  
       .col-md-6.col-lg-4.mb-4.mb-lg-0(data-aos="zoom-in-up")
-        //- .tarjeta--boton debe ir acompañado de una de una de estas clases => 
-        //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-        //- estas clases tambien tienen un modificador --borde
         .tarjeta.bg-color-6.h-100.p-4
           .row.justify-content-center.mb-3
             .col-4
@@ -239,10 +221,6 @@
           div.text-center
             h2 (iii)
             p La dignidad humana entendida como derecho fundamental autónomo.
-
-
-
-
  
 </template>
 

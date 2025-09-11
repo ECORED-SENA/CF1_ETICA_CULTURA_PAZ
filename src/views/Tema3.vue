@@ -7,7 +7,7 @@
         span 3
       h1 Proyecto de vida de acuerdo con los criterios de dignidad y respeto
     
-    p En este tema conoceremos el sentido de vida, que las metas propuestas estén en relación con principios y valores y la convivencia.
+    p.mb-0 En este tema conoceremos el sentido de vida, que las metas propuestas estén en relación con principios, valores y la convivencia.
 
     separador
     
@@ -46,7 +46,7 @@
 
     .row.justify-content-center
       .col-xl-10
-        .bg-color-9.tarjeta.mb-5
+        .bg-color-9.tarjeta
           .px-4.px-md-5.py-4.py-lg-0
             .row.align-items-center.position-relative
               img.pst.d-none.d-lg-flex(src="@/assets/curso/tema3/6.svg", style="max-width: 85px").mx-auto
@@ -62,7 +62,7 @@
                     .col
                       .row.justify-content-between.align-items-center
                         .col.mb-3.mb-sm-0.text-white
-                          p.mb-0.text-small A continuación, lo invitamos a participar del siguiente ejercicio. Es un <em>test</em>, que le permitirá reflexionar sobre la definición de su sentido de vida. El resultado es para usted, posiblemente no es el que usted cree. 
+                          p.mb-0 A continuación, lo invitamos a participar del siguiente ejercicio. Es un <em>test</em>, que le permitirá reflexionar sobre la definición de su sentido de vida. El resultado es para usted, posiblemente no es el que usted cree. 
                         .col-sm-auto
                           a.boton.color-acento-botones(href="https://zajuna.sena.edu.co/Repositorio/Titulada/institution/SENA/Transversales/OVA/Etica_y_cultura_de_Paz/CF1_ETICA_CULTURA_PAZ/media/actividad-2/index.html" target="_blank")
                             span Iniciar
@@ -74,10 +74,6 @@
       h2 3.2 Metas propuestas que estén en relación con principios y valores 
     
     p Primero piense un poco sobre sus proyecciones, y para ello, lo invitamos a ver el video que se encuentra en el material complementario: <b>¿Te Atreves A Soñar? | Desafía tu Zona de Confort!</b>
-
-    //- figure.mb-5
-    //-   .video
-    //-     iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
    
     p Ahora, un proyecto de vida es un elemento importante para darle un mayor sentido a la vida, además le permite tener claros los valores fundamentales que rigen su vida. Es una herramienta que permite estructurar su mente y su existencia para crear un esquema de lo que realmente quiere conseguir.
     p Algunas veces nos preguntamos: ¿cómo me imagino dentro de algunos años?, ¿qué es lo que quiero alcanzar?, ¿qué es lo que me hace feliz?, ¿cómo lograr todo lo que me propongo?, estas preguntas nos permiten reflexionar hacia dónde nos dirigimos, de igual forma, nos aclaran el camino sobre lo que queremos, dónde estamos y a dónde queremos llegar.
@@ -86,10 +82,52 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 1
+          h5 Figura 1.
           span Niveles neurológicos 
         figure
           img(src="@/assets/curso/tema3/8.svg", data-aos="zoom-in", alt="Pirámide de los niveles neurológicos del aprendizaje y el cambio, según el modelo de Robert Dilts. La figura muestra seis niveles jerárquicos de abajo hacia arriba: entorno (rojo), acciones (naranja), capacidades (azul), creencias y valores (verde), identidad (celeste) y espiritualidad (dorado). A la izquierda se señalan tres procesos asociados: remediativo en los niveles inferiores, generativo en los intermedios y evolutivo en el superior.")
+
+    p Pirámide de los niveles neurológicos del aprendizaje y el cambio, basada en el modelo de Robert Dilts. La pirámide está dividida en seis niveles jerárquicos desde la base hasta la cima:
+
+    ul.lista-ul.ms-3
+      li.d-flex
+        i.lista-ul__vineta
+        |
+        p.mb-0 #[b Medio ambiente o entorno (color rojo):] representa el nivel más básico y reactivo. Se relaciona con preguntas como: ¿dónde?, ¿cuándo?, ¿con quiénes?
+      li.d-flex
+        i.lista-ul__vineta
+        |
+        p.mb-0 #[b Acciones y comportamiento (color naranja):] hace referencia a lo que una persona hace. Pregunta clave: ¿qué?
+      li.d-flex
+        i.lista-ul__vineta
+        |
+        p.mb-0 #[b Capacidades (color azul):] abarca habilidades y recursos internos. Preguntas: ¿cómo?, ¿con qué?
+      li.d-flex
+        i.lista-ul__vineta
+        |
+        p.mb-0 #[b Creencias y valores (color verde):] orienta las motivaciones y la dirección. Pregunta: ¿por qué?
+      li.d-flex
+        i.lista-ul__vineta
+        |
+        p.mb-0 #[b Identidad (color celeste):] se refiere al sentido de sí mismo. Pregunta: ¿quién soy?
+      li.d-flex
+        i.lista-ul__vineta
+        |
+        p.mb-0 #[b Espiritualidad (color dorado):] nivel más alto, relacionado con la visión trascendental o propósito mayor. Pregunta: ¿quién más soy?
+    p A la izquierda de la pirámide se identifican tres tipos de procesos:
+    ul.lista-ul.ms-3
+      li.d-flex
+        i.lista-ul__vineta
+        |
+        p.mb-0 #[b Remediativo] (niveles inferiores: entorno, acción).
+      li.d-flex
+        i.lista-ul__vineta
+        |
+        p.mb-0 #[b Generativo] (niveles intermedios: capacidades, creencias, identidad).
+      li.d-flex
+        i.lista-ul__vineta
+        |
+        p.mb-0 #[b Evolutivo] (nivel superior: espiritualidad).
     
     p Cada uno de estos niveles plantea preguntas que nos permiten reflexionar sobre los aspectos que hacen parte de su vida personal (interior), involucrando los cuatro primeros niveles y los aspectos que están relacionados con el exterior, es decir, los últimos dos.
     p.mb-5 Reflexione sobre cada una de las siguientes preguntas, esto le permitirá planear su proyecto de vida:
@@ -99,7 +137,7 @@
         figure
           img(src="@/assets/curso/tema3/9.png", data-aos="zoom-in")
       .col-lg-8
-        AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
+        AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           div(titulo="Nivel 1 - Espiritualidad")
             ul.lista-ul--color.ms-5
               li.mb-0.d-flex
@@ -195,7 +233,7 @@
     .row.justify-content-center.mb-5
       .col-lg-6
         .titulo-sexto.color-acento-contenido
-          h5 Figura 2
+          h5 Figura 2.
           span Pregunta 
         figure
           img(src="@/assets/curso/tema3/10.svg", data-aos="zoom-in", alt="Diagrama circular con fondo blanco y siete círculos de colores alrededor de uno central celeste.El círculo central contiene la pregunta: ¿cuál es mi compromiso en los diferentes entornos con los que me relaciono” Alrededor del círculo central se encuentran los siguientes entornos: vecindario, amigos, cultural, virtual, colegio (educativa), laboral y familia.")

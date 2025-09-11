@@ -7,7 +7,7 @@
         span 2
       h1 Habilidades para la vida y la convivencia
 
-    p.mb-5 En 1993, la División de Salud Mental de la Organización Mundial de la Salud (OMS) lanzó formalmente la Iniciativa Internacional para la Educación en las Escuelas de Habilidades para la Vida, con el propósito de difundir la enseñanza de un grupo genérico de destrezas psicosociales, consideradas importantes en la promoción de la competencia psicosocial, y a las que llamó “habilidades para la vida”. (P5) Las diez habilidades que propuso fueron: toma de decisiones, solución de problemas, pensamiento creativo, pensamiento crítico, comunicación efectiva, relaciones interpersonales, autoconocimiento, empatía, manejo de emociones y manejo del estrés.
+    p.mb-5 En 1993, la División de Salud Mental de la Organización Mundial de la Salud (OMS) lanzó formalmente la Iniciativa Internacional para la Educación en las Escuelas de Habilidades para la Vida, con el propósito de difundir la enseñanza de un grupo genérico de destrezas psicosociales, consideradas importantes en la promoción de la competencia psicosocial, y a las que llamó “habilidades para la vida”. Las diez habilidades que propuso fueron: toma de decisiones, solución de problemas, pensamiento creativo, pensamiento crítico, comunicación efectiva, relaciones interpersonales, autoconocimiento, empatía, manejo de emociones y manejo del estrés.
 
     .bg-color-15.mb-5(data-aos="fade-up")
       .row.justify-content-center.align-items-center
@@ -21,7 +21,7 @@
     
     p A partir de lo anterior, vamos a retomar 5 de estas habilidades:
 
-    .row.mb-5.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center
       .col-lg-5.order-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema2/2.png", data-aos="zoom-in")
@@ -143,33 +143,11 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/gXOVF4x8hqw?si=Y_Ew3xrPanVqlDrS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
-    //- .row.mb-5
-    //-   .col-lg-4.mb-3.mb-lg-0
-    //-     figure
-    //-       img(src="@/assets/curso/tema2/12.png", data-aos="zoom-in")
-    //-   .col-lg-8
-    //-     p(data-aos="fade-left") Tradicionalmente reconocemos la importancia del manejo de nuestras acciones, relacionando a quien maneja la lógica, un buen razonamiento lingüístico o lógico-matemático como una persona inteligente, capaz y en muchas ocasiones relacionada con el éxito. La inteligencia, ese instinto razonado que nos permite relacionar pensamientos, unos con otros, para obtener pensamientos nuevos nace y se hace, dependiendo de la herencia y del ambiente o contexto cultural; sin embargo, en los últimos años se ha empezado a considerar valioso el manejo de las emociones, considerándolo como otro tipo de inteligencia, la emocional, la cual enfatiza en la capacidad para manejarnos con nosotros mismos y con los demás.
-
-    //-     .bg-color-18.mb-5.tarjeta
-    //-       .p-4.p-md-5
-    //-         .row.justify-content-center.align-items-center
-    //-           .col-lg-4.mb-3.mb-lg-0
-    //-             figure
-    //-               img(src="@/assets/curso/tema2/13.svg", data-aos="zoom-in")
-    //-           .col-lg-7
-    //-             p(data-aos="fade-left").mb-4 Para ampliar la información, lo invitamos a escuchar el siguiente pódcast.
-        
-    //-             TarjetaAudio.color-secundario.bg-color-white.mb-3(
-    //-               texto="Inteligencia emocional"
-    //-               tiempo
-    //-               :audio="require('../assets/curso/podcast/podcast1.mp3')"
-    //-             )
-    
     h5.bg-color-19.p-3 Hábitos emocionales
 
     p.mb-5 Ya reconociendo la amplia capacidad de aprendizaje que tenemos las personas, se destaca una capacidad particular de la inteligencia, la cual se debe desarrollar como seres sociales que somos y que realmente ayuda mucho en el proceso de adaptación al entorno. Recomendamos los siguientes consejos para aumentar su inteligencia emocional y convertirlos en un hábito:
     
-    .bg-full-width.bg-fondo-slider.mb-5
+    .bg-full-width.bg-fondo-slider
       .p-4.p-md-5
         SlyderA(tipo="b").bg-color-20.tarjeta.p-3
           .row.align-items-center.p-4.p-md-5
@@ -256,9 +234,6 @@
     p.mb-5 La comunicación asertiva es una forma de expresión honesta, directa y equilibrada, que tiene como objetivo comunicar nuestros pensamientos, intereses y derechos sin la intención de perjudicar a nadie. La asertividad busca poner en equilibrio dos extremos de la comunicación:
 
     .tarjeta--container.row.mb-5
-      //- .tarjeta debe ir acompañado de una de una de estas clases => 
-      //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-      //- estas clases tambien tienen un modificador --borde
       .col-md.tarjeta.color-primario.bg-color-16.p-5(data-aos="fade-up")
         .row.justify-content-center.mb-4.align-items-center
           .col-lg-3
@@ -268,9 +243,6 @@
             h2 La comunicación pasiva
         p Es la que evita el conflicto, optando por no expresar molestias y desacuerdos. Con este tipo de comunicación los problemas o conflictos no se solucionan, se ignoran hasta que son imposibles de manejar.
 
-      //- .tarjeta debe ir acompañado de una de una de estas clases => 
-      //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-      //- estas clases tambien tienen un modificador --borde
       .col-md.tarjeta.color-acento-botones.bg-color-1.p-5(data-aos="fade-down")
         .row.justify-content-center.mb-4.align-items-center
           .col-lg-3
@@ -281,11 +253,7 @@
         p Es la que emplea la ira o los reproches, generando conflictos, lo cual impide encontrar soluciones a los problemas.
 
     p Sin embargo, el estilo de comunicación asertivo permite expresar y defender sus criterios y puntos de vista, se caracteriza por el equilibrio entre la elocuencia y el respeto, de ahí que se le haya adjudicado a este término el significado de “expresión de los derechos y sentimientos personales”.
-    p.mb-5 Lo invitamos a realizar el siguiente ejercicio. Visite el video que se encuentra en el material complementario: #[strong yo digo hay que hablarlo, tu dices grrr!] Mire el siguiente video e identifique en dónde está la comunicación agresiva, pasiva o asertiva.
-
-    //- figure.mb-5
-    //-   .video
-    //-     iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    p.mb-5 Lo invitamos a realizar el siguiente ejercicio. Visite el video que se encuentra en el material complementario: #[strong yo digo hay que hablarlo, tu dices grrr!] Mire el video e identifique en dónde está la comunicación agresiva, pasiva o asertiva.
     
     .bg-color-4.tarjeta.mb-5
       .px-4.px-md-5.py-4
@@ -298,9 +266,6 @@
     p.mb-5 La comunicación asertiva cumple además con ciertos requisitos emotivos, psicológicos y pragmáticos que la caracterizan, como lo son:
 
     TabsA.color-acento-botones.mb-5
-      //- .tarjeta debe ir acompañado de una de una de estas clases => 
-      //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
-      //- estas clases tambien tienen un modificador --borde
       .tarjeta.color-acento-botones--borde.p-4(titulo="Claridad")
         h4 Claridad
         .row.align-items-center
@@ -379,7 +344,7 @@
           p(numero="1" titulo="Sensación de control") Permite sentirnos con el poder y la capacidad de decidir.
           p(numero="2" titulo="Mejora la autoestima") Permite recuperar el control de las situaciones, al defender nuestras opiniones y expresar nuestras emociones.
           p(numero="3" titulo="Mejora la comunicación con los demás") La asertividad se basa en una comunicación eficiente, evitando generar conflictos.
-          p(numero="4" titulo="Contribuye a gestionar las emociones") Expresar y atender nuestras emociones nos permite comunicarnos mejor y fortalecer las relaciones interpersonales.quam cursus in. Donec feugiat volutpat metus at pulvinar.
+          p(numero="4" titulo="Contribuye a gestionar las emociones") Expresar y atender nuestras emociones nos permite comunicarnos mejor y fortalecer las relaciones interpersonales.
           p(numero="5" titulo="Resolver conflictos") La asertividad permite resolver conflictos de manera eficiente, evitando que los problemas se incrementen. Esto se debe a que expresamos nuestras necesidades.
 
     separador
@@ -463,7 +428,7 @@
 
     .row
       .col-lg-4
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_1_Manual_Solucion_de_conflictos.pdf')" target="_blank")
+        a.anexo(:href="obtenerLink('/downloads/Anexo_1_Manual_Solucion_de_conflictos.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -597,8 +562,6 @@
             .col-lg-8.order-1.mb-3.mb-lg-0
               h5 Ayuda de un profesional
               p En ocasiones es necesario apoyarnos en profesionales para lograr transformaciones en nuestra vida, ellos nos ayudan a crear estrategias, con el fin de aprender una serie de habilidades y recursos.
-
-
 
 </template>
 
