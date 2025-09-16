@@ -149,7 +149,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/SIE_CF01_DU.zip',
+        download: 'downloads/SIE_CF01_DU.pdf',
       },
       {
         icono: 'fas fa-download',
