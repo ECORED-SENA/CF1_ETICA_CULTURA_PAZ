@@ -165,13 +165,6 @@ export default {
   },
   complementario: [
     {
-      tema:
-        'Contextualización desde los derechos humanos universales y el derecho internacional humanitario',
-      referencia: 'Ferrer, S. (2017). La Dignidad Humana (video). YouTube.',
-      tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=EJbty8PY1S0 ',
-    },
-    {
       tema: 'Empatía',
       referencia:
         'DubujadaMente. (2023). Inteligencia Emocional según Daniel Goleman | Resumen Animado Completo del libro (video). YouTube.',
